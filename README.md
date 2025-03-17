@@ -13,9 +13,9 @@ _A real-time messaging application built using Flutter and Firebase._
 - 🌙 Dark mode support
 
 ## 📸 Screenshots
-| Home Screen | Chat Screen | Story Feature |
+| LogIn Screen | Home Screen | Chat Feature |
 |------------|------------|--------------|
-| !<img src="Screenshot_20250317_095924.png" width="300"> | ![Chat](https://your-image-url.com/chat.png) | ![Story](https://your-image-url.com/story.png) |
+| !<img src="Screenshot_20250317_095924.png" width="300"> | !<img src="Screenshot_20250317_100001.png" width="300"> | !<img src="Screenshot_20250317_151003.png" width="300"> |
 
 ## 🛠️ Tech Stack
 - **Frontend:** Flutter (Dart)
