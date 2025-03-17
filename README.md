@@ -1,7 +1,7 @@
 # Real-Time Chat App
 
 ![ChatApp Banner](https://your-image-url.com/banner.png)  
-_A real-time messaging application built using Flutter and Firebase._
+_A real-time messaging application built using Kotlin and Jetpack Compose._
 
 ## 🚀 Features
 - 🔥 Real-time messaging with Firebase Firestore
@@ -9,16 +9,15 @@ _A real-time messaging application built using Flutter and Firebase._
 - 🔔 Push notifications for new messages
 - 👥 User authentication (Google & Email login)
 - 📸 Media sharing (Images & Videos)
-- 🎨 Customizable chat themes
 - 🌙 Dark mode support
 
 ## 📸 Screenshots
 | LogIn Screen | Home Screen | Chat Feature |
 |------------|------------|--------------|
-| !<img src="Screenshot_20250317_095924.png" width="200"> | !<img src="Screenshot_20250317_100001.png" width="200"> | !<img src="Screenshot_20250317_151003.png" width="200"> |
+| <img src="Screenshot_20250317_095924.png" width="200"> | <img src="Screenshot_20250317_100001.png" width="200"> | <img src="Screenshot_20250317_151003.png" width="200"> |
 
 ## 🛠️ Tech Stack
-- **Frontend:** Flutter (Dart)
+- **Frontend:** Kotlin, Jetpack Compose
 - **Backend:** Firebase Firestore, Firebase Authentication
 - **Storage:** Firebase Cloud Storage
 - **Notifications:** Firebase Cloud Messaging (FCM)
@@ -27,6 +26,7 @@ _A real-time messaging application built using Flutter and Firebase._
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Fardhin/Real-Time-ChatApp.git
+
    ```
 2. **Navigate to the project directory**
    ```bash
@@ -34,7 +34,7 @@ _A real-time messaging application built using Flutter and Firebase._
    ```
 3. **Install dependencies**
    ```bash
-   flutter pub get
+   ./gradlew build
    ```
 4. **Set up Firebase**
    - Create a Firebase project.
@@ -42,7 +42,8 @@ _A real-time messaging application built using Flutter and Firebase._
    - Download `google-services.json` (for Android) & `GoogleService-Info.plist` (for iOS) and place them in the respective folders.
 5. **Run the app**
    ```bash
-   flutter run
+   ./gradlew assembleDebug
+
    ```
 
 ## 📜 License
