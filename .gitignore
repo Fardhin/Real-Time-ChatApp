@@ -13,3 +13,14 @@
 .externalNativeBuild
 .cxx
 local.properties
+# Android & Kotlin
+/build/
+.gradle/
+.idea/
+local.properties
+*.iml
+*.log
+
+# Firebase Keys (DO NOT COMMIT SECRETS)
+android/app/google-services.json
+
