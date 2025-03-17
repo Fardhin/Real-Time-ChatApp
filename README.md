@@ -15,7 +15,7 @@ _A real-time messaging application built using Flutter and Firebase._
 ## 📸 Screenshots
 | LogIn Screen | Home Screen | Chat Feature |
 |------------|------------|--------------|
-| !<img src="Screenshot_20250317_095924.png" width="300"> | !<img src="Screenshot_20250317_100001.png" width="300"> | !<img src="Screenshot_20250317_151003.png" width="300"> |
+| !<img src="Screenshot_20250317_095924.png" width="200"> | !<img src="Screenshot_20250317_100001.png" width="200"> | !<img src="Screenshot_20250317_151003.png" width="200"> |
 
 ## 🛠️ Tech Stack
 - **Frontend:** Flutter (Dart)
