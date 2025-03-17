@@ -11,15 +11,10 @@ _A real-time messaging application built using Kotlin and Jetpack Compose._
 - 🌙 Dark mode support
 
 ## 📸 Screenshots
+| LogIn Screen | Home Screen | Chat Feature |
+|------------|------------|--------------|
+| <img src="Screenshot_20250317_095924.png" width="200"> | <img src="Screenshot_20250317_100001.png" width="200"> | <img src="Screenshot_20250317_151003.png" width="200"> |
 
-### 🔑 Login Screen  
-<img src="Screenshot_20250317_095924.png" width="250">
-
-### 🏠 Home Screen  
-<img src="Screenshot_20250317_100001.png" width="250">
-
-### 💬 Chat Screen  
-<img src="Screenshot_20250317_151003.png" width="250">
 ## 🛠️ Tech Stack
 - **Frontend:** Kotlin, Jetpack Compose
 - **Backend:** Firebase Firestore, Firebase Authentication
