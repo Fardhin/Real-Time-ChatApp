@@ -1,6 +1,5 @@
 # Real-Time Chat App
-
-![ChatApp Banner](https://your-image-url.com/banner.png)  
+ 
 _A real-time messaging application built using Kotlin and Jetpack Compose._
 
 ## 🚀 Features
